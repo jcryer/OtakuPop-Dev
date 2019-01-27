@@ -1,0 +1,25 @@
+.nava {
+    font-family: "PT Serif", serif;
+    font-size: 1.3em;
+    color: white;
+}
+.nava:hover {
+    color: white;
+}
+.nava:active {
+    color: white;
+}
+.topa {
+    color:azure;
+    font-size: 0.8em;
+}
+.topa:active {
+    color:azure;
+}
+.topa:hover {
+    color:azure;
+    text-decoration: none;
+}
+.userimg {
+    border-radius: 2em;
+}
